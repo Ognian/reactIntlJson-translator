@@ -1,0 +1,165 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<tmx version="1.4">
+  <header creationtool="memsource_tool" creationtoolversion="1.0" segtype="sentence" o-tmf="memsourceTM" adminlang="en" srclang="en" datatype="unknown" creationdate="20160531T133153Z">
+    <prop type="name">LIMSv2_de_TM</prop>
+  </header>
+  <body>
+    <tu tuid="qKheG0BNxtr5MJ9UPi0mxmZV1">
+      <tuv xml:lang="de" creationdate="20160525T140100Z" changedate="20160525T140100Z">
+        <prop type="project">1096217</prop>
+        <prop type="reviewed">false</prop>
+        <prop type="aligned">false</prop>
+        <prop type="created_at">1464184860000</prop>
+        <prop type="created_by">Ognian</prop>
+        <prop type="modified_at">1464184860000</prop>
+        <prop type="modified_by">Ognian</prop>
+        <prop type="filename">TableOptions.json</prop>
+        <seg>Element hinzufügen</seg>
+      </tuv>
+      <tuv xml:lang="en">
+        <prop type="context_prev">the text on the plus button for adding an item</prop>
+        <seg>Add item</seg>
+      </tuv>
+    </tu>
+    <tu tuid="ghZ8cfymgQB2pz4MnlwrGbUn">
+      <tuv xml:lang="de" creationdate="20160531T130615Z" changedate="20160531T132732Z">
+        <prop type="project">1108156</prop>
+        <prop type="reviewed">false</prop>
+        <prop type="aligned">false</prop>
+        <prop type="created_at">1464699975000</prop>
+        <prop type="created_by">Ognian</prop>
+        <prop type="modified_at">1464701252000</prop>
+        <prop type="modified_by">Ognian</prop>
+        <prop type="filename">reactIntlMessages.json</prop>
+        <seg>Speichern</seg>
+      </tuv>
+      <tuv xml:lang="en">
+        <prop type="context_prev">Cancel</prop>
+        <prop type="context_next">Delete</prop>
+        <seg>Save</seg>
+      </tuv>
+    </tu>
+    <tu tuid="df1cqQQt1M98UzigX334sdUs0">
+      <tuv xml:lang="de" creationdate="20160525T140059Z" changedate="20160525T140059Z">
+        <prop type="project">1096217</prop>
+        <prop type="reviewed">false</prop>
+        <prop type="aligned">false</prop>
+        <prop type="created_at">1464184859000</prop>
+        <prop type="created_by">Ognian</prop>
+        <prop type="modified_at">1464184859000</prop>
+        <prop type="modified_by">Ognian</prop>
+        <prop type="filename">TableOptions.json</prop>
+        <seg>der Text auf die plus-Taste für das Hinzufügen eines Elements</seg>
+      </tuv>
+      <tuv xml:lang="en">
+        <prop type="context_prev">newItem</prop>
+        <prop type="context_next">Add item</prop>
+        <seg>the text on the plus button for adding an item</seg>
+      </tuv>
+    </tu>
+    <tu tuid="Hh0mqS114qHjwrAw6S28Q1HK8">
+      <tuv xml:lang="de" creationdate="20160525T140107Z" changedate="20160525T140146Z">
+        <prop type="project">1096217</prop>
+        <prop type="reviewed">false</prop>
+        <prop type="aligned">false</prop>
+        <prop type="created_at">1464184867000</prop>
+        <prop type="created_by">Ognian</prop>
+        <prop type="modified_at">1464184906000</prop>
+        <prop type="modified_by">Ognian</prop>
+        <prop type="filename">TableOptions.json</prop>
+        <seg>x</seg>
+      </tuv>
+      <tuv xml:lang="en">
+        <prop type="context_next">the text on the plus button for adding an item</prop>
+        <seg>newItem</seg>
+      </tuv>
+    </tu>
+    <tu tuid="0sQKqU86xu346o8oGU1KwHJo3">
+      <tuv xml:lang="de" creationdate="20160531T130615Z" changedate="20160531T131626Z">
+        <prop type="project">1108156</prop>
+        <prop type="reviewed">false</prop>
+        <prop type="aligned">false</prop>
+        <prop type="created_at">1464699975000</prop>
+        <prop type="created_by">Ognian</prop>
+        <prop type="modified_at">1464700586000</prop>
+        <prop type="modified_by">Ognian</prop>
+        <prop type="filename">reactIntlMessages.json</prop>
+        <seg>Löschen</seg>
+      </tuv>
+      <tuv xml:lang="en">
+        <prop type="context_prev">Save</prop>
+        <prop type="context_next">Add item</prop>
+        <seg>Delete</seg>
+      </tuv>
+    </tu>
+    <tu tuid="WHkaa3O7Mgx26p4svAM30wFQ0">
+      <tuv xml:lang="de" creationdate="20160531T130616Z" changedate="20160531T131626Z">
+        <prop type="project">1108156</prop>
+        <prop type="reviewed">false</prop>
+        <prop type="aligned">false</prop>
+        <prop type="created_at">1464699976000</prop>
+        <prop type="created_by">Ognian</prop>
+        <prop type="modified_at">1464700586000</prop>
+        <prop type="modified_by">Ognian</prop>
+        <prop type="filename">reactIntlMessages.json</prop>
+        <seg>Element hinzufügen</seg>
+      </tuv>
+      <tuv xml:lang="en">
+        <prop type="context_prev">Delete</prop>
+        <seg>Add item</seg>
+      </tuv>
+    </tu>
+    <tu tuid="lkhxEUFz08v5I1ig2K0a10y4q">
+      <tuv xml:lang="de" creationdate="20160531T132732Z" changedate="20160531T132732Z">
+        <prop type="project">1108156</prop>
+        <prop type="reviewed">false</prop>
+        <prop type="aligned">false</prop>
+        <prop type="created_at">1464701252000</prop>
+        <prop type="created_by">Ognian</prop>
+        <prop type="modified_at">1464701252000</prop>
+        <prop type="modified_by">Ognian</prop>
+        <prop type="filename">reactIntlMessages.json</prop>
+        <seg>Löschen</seg>
+      </tuv>
+      <tuv xml:lang="en">
+        <prop type="context_prev">Save</prop>
+        <prop type="context_next">Add</prop>
+        <seg>Delete</seg>
+      </tuv>
+    </tu>
+    <tu tuid="tq05Rx1w0UKi0U91yHagnnILs">
+      <tuv xml:lang="de" creationdate="20160531T130614Z" changedate="20160531T132731Z">
+        <prop type="project">1108156</prop>
+        <prop type="reviewed">false</prop>
+        <prop type="aligned">false</prop>
+        <prop type="created_at">1464699974000</prop>
+        <prop type="created_by">Ognian</prop>
+        <prop type="modified_at">1464701251000</prop>
+        <prop type="modified_by">Ognian</prop>
+        <prop type="filename">reactIntlMessages.json</prop>
+        <seg>Abbrechen</seg>
+      </tuv>
+      <tuv xml:lang="en">
+        <prop type="context_next">Save</prop>
+        <seg>Cancel</seg>
+      </tuv>
+    </tu>
+    <tu tuid="erDihZRbM362YG4cCUgLxv8Q">
+      <tuv xml:lang="de" creationdate="20160531T132802Z" changedate="20160531T132802Z">
+        <prop type="project">1108156</prop>
+        <prop type="reviewed">false</prop>
+        <prop type="aligned">false</prop>
+        <prop type="created_at">1464701282000</prop>
+        <prop type="created_by">Ognian</prop>
+        <prop type="modified_at">1464701282000</prop>
+        <prop type="modified_by">Ognian</prop>
+        <prop type="filename">reactIntlMessages.json</prop>
+        <seg>Hinzufügen</seg>
+      </tuv>
+      <tuv xml:lang="en">
+        <prop type="context_prev">Delete</prop>
+        <seg>Add</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

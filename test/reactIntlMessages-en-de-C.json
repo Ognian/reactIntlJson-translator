@@ -1,0 +1,19 @@
+[
+  {
+    "id": "cancelInDetail",
+    "defaultMessage": "Abbrechen"
+  },
+  {
+    "id": "saveItem",
+    "defaultMessage": "Speichern"
+  },
+  {
+    "id": "deleteItem",
+    "defaultMessage": "Löschen"
+  },
+  {
+    "id": "newItem",
+    "description": "the text on the plus button for adding an item",
+    "defaultMessage": "Hinzufügen"
+  }
+]

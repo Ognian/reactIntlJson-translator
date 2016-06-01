@@ -1,0 +1,807 @@
+{
+    "tmx": {
+        "$": {
+            "version": "1.4"
+        },
+        "header": [
+            {
+                "$": {
+                    "creationtool": "memsource_tool",
+                    "creationtoolversion": "1.0",
+                    "segtype": "sentence",
+                    "o-tmf": "memsourceTM",
+                    "adminlang": "en",
+                    "srclang": "en",
+                    "datatype": "unknown",
+                    "creationdate": "20160531T133153Z"
+                },
+                "prop": [
+                    {
+                        "_": "XXXXX_de_TM",
+                        "$": {
+                            "type": "name"
+                        }
+                    }
+                ]
+            }
+        ],
+        "body": [
+            {
+                "tu": [
+                    {
+                        "$": {
+                            "tuid": "qKheG0BNxtr5MJ9UPi0mxmZV1"
+                        },
+                        "tuv": [
+                            {
+                                "$": {
+                                    "xml:lang": "de",
+                                    "creationdate": "20160525T140100Z",
+                                    "changedate": "20160525T140100Z"
+                                },
+                                "prop": [
+                                    {
+                                        "_": "1096217",
+                                        "$": {
+                                            "type": "project"
+                                        }
+                                    },
+                                    {
+                                        "_": "false",
+                                        "$": {
+                                            "type": "reviewed"
+                                        }
+                                    },
+                                    {
+                                        "_": "false",
+                                        "$": {
+                                            "type": "aligned"
+                                        }
+                                    },
+                                    {
+                                        "_": "1464184860000",
+                                        "$": {
+                                            "type": "created_at"
+                                        }
+                                    },
+                                    {
+                                        "_": "Ognian",
+                                        "$": {
+                                            "type": "created_by"
+                                        }
+                                    },
+                                    {
+                                        "_": "1464184860000",
+                                        "$": {
+                                            "type": "modified_at"
+                                        }
+                                    },
+                                    {
+                                        "_": "Ognian",
+                                        "$": {
+                                            "type": "modified_by"
+                                        }
+                                    },
+                                    {
+                                        "_": "TableOptions.json",
+                                        "$": {
+                                            "type": "filename"
+                                        }
+                                    }
+                                ],
+                                "seg": [
+                                    "Element hinzufügen"
+                                ]
+                            },
+                            {
+                                "$": {
+                                    "xml:lang": "en"
+                                },
+                                "prop": [
+                                    {
+                                        "_": "the text on the plus button for adding an item",
+                                        "$": {
+                                            "type": "context_prev"
+                                        }
+                                    }
+                                ],
+                                "seg": [
+                                    "Add item"
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "$": {
+                            "tuid": "ghZ8cfymgQB2pz4MnlwrGbUn"
+                        },
+                        "tuv": [
+                            {
+                                "$": {
+                                    "xml:lang": "de",
+                                    "creationdate": "20160531T130615Z",
+                                    "changedate": "20160531T132732Z"
+                                },
+                                "prop": [
+                                    {
+                                        "_": "1108156",
+                                        "$": {
+                                            "type": "project"
+                                        }
+                                    },
+                                    {
+                                        "_": "false",
+                                        "$": {
+                                            "type": "reviewed"
+                                        }
+                                    },
+                                    {
+                                        "_": "false",
+                                        "$": {
+                                            "type": "aligned"
+                                        }
+                                    },
+                                    {
+                                        "_": "1464699975000",
+                                        "$": {
+                                            "type": "created_at"
+                                        }
+                                    },
+                                    {
+                                        "_": "Ognian",
+                                        "$": {
+                                            "type": "created_by"
+                                        }
+                                    },
+                                    {
+                                        "_": "1464701252000",
+                                        "$": {
+                                            "type": "modified_at"
+                                        }
+                                    },
+                                    {
+                                        "_": "Ognian",
+                                        "$": {
+                                            "type": "modified_by"
+                                        }
+                                    },
+                                    {
+                                        "_": "reactIntlMessages.json",
+                                        "$": {
+                                            "type": "filename"
+                                        }
+                                    }
+                                ],
+                                "seg": [
+                                    "Speichern"
+                                ]
+                            },
+                            {
+                                "$": {
+                                    "xml:lang": "en"
+                                },
+                                "prop": [
+                                    {
+                                        "_": "Cancel",
+                                        "$": {
+                                            "type": "context_prev"
+                                        }
+                                    },
+                                    {
+                                        "_": "Delete",
+                                        "$": {
+                                            "type": "context_next"
+                                        }
+                                    }
+                                ],
+                                "seg": [
+                                    "Save"
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "$": {
+                            "tuid": "df1cqQQt1M98UzigX334sdUs0"
+                        },
+                        "tuv": [
+                            {
+                                "$": {
+                                    "xml:lang": "de",
+                                    "creationdate": "20160525T140059Z",
+                                    "changedate": "20160525T140059Z"
+                                },
+                                "prop": [
+                                    {
+                                        "_": "1096217",
+                                        "$": {
+                                            "type": "project"
+                                        }
+                                    },
+                                    {
+                                        "_": "false",
+                                        "$": {
+                                            "type": "reviewed"
+                                        }
+                                    },
+                                    {
+                                        "_": "false",
+                                        "$": {
+                                            "type": "aligned"
+                                        }
+                                    },
+                                    {
+                                        "_": "1464184859000",
+                                        "$": {
+                                            "type": "created_at"
+                                        }
+                                    },
+                                    {
+                                        "_": "Ognian",
+                                        "$": {
+                                            "type": "created_by"
+                                        }
+                                    },
+                                    {
+                                        "_": "1464184859000",
+                                        "$": {
+                                            "type": "modified_at"
+                                        }
+                                    },
+                                    {
+                                        "_": "Ognian",
+                                        "$": {
+                                            "type": "modified_by"
+                                        }
+                                    },
+                                    {
+                                        "_": "TableOptions.json",
+                                        "$": {
+                                            "type": "filename"
+                                        }
+                                    }
+                                ],
+                                "seg": [
+                                    "der Text auf die plus-Taste für das Hinzufügen eines Elements"
+                                ]
+                            },
+                            {
+                                "$": {
+                                    "xml:lang": "en"
+                                },
+                                "prop": [
+                                    {
+                                        "_": "newItem",
+                                        "$": {
+                                            "type": "context_prev"
+                                        }
+                                    },
+                                    {
+                                        "_": "Add item",
+                                        "$": {
+                                            "type": "context_next"
+                                        }
+                                    }
+                                ],
+                                "seg": [
+                                    "the text on the plus button for adding an item"
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "$": {
+                            "tuid": "Hh0mqS114qHjwrAw6S28Q1HK8"
+                        },
+                        "tuv": [
+                            {
+                                "$": {
+                                    "xml:lang": "de",
+                                    "creationdate": "20160525T140107Z",
+                                    "changedate": "20160525T140146Z"
+                                },
+                                "prop": [
+                                    {
+                                        "_": "1096217",
+                                        "$": {
+                                            "type": "project"
+                                        }
+                                    },
+                                    {
+                                        "_": "false",
+                                        "$": {
+                                            "type": "reviewed"
+                                        }
+                                    },
+                                    {
+                                        "_": "false",
+                                        "$": {
+                                            "type": "aligned"
+                                        }
+                                    },
+                                    {
+                                        "_": "1464184867000",
+                                        "$": {
+                                            "type": "created_at"
+                                        }
+                                    },
+                                    {
+                                        "_": "Ognian",
+                                        "$": {
+                                            "type": "created_by"
+                                        }
+                                    },
+                                    {
+                                        "_": "1464184906000",
+                                        "$": {
+                                            "type": "modified_at"
+                                        }
+                                    },
+                                    {
+                                        "_": "Ognian",
+                                        "$": {
+                                            "type": "modified_by"
+                                        }
+                                    },
+                                    {
+                                        "_": "TableOptions.json",
+                                        "$": {
+                                            "type": "filename"
+                                        }
+                                    }
+                                ],
+                                "seg": [
+                                    "x"
+                                ]
+                            },
+                            {
+                                "$": {
+                                    "xml:lang": "en"
+                                },
+                                "prop": [
+                                    {
+                                        "_": "the text on the plus button for adding an item",
+                                        "$": {
+                                            "type": "context_next"
+                                        }
+                                    }
+                                ],
+                                "seg": [
+                                    "newItem"
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "$": {
+                            "tuid": "0sQKqU86xu346o8oGU1KwHJo3"
+                        },
+                        "tuv": [
+                            {
+                                "$": {
+                                    "xml:lang": "de",
+                                    "creationdate": "20160531T130615Z",
+                                    "changedate": "20160531T131626Z"
+                                },
+                                "prop": [
+                                    {
+                                        "_": "1108156",
+                                        "$": {
+                                            "type": "project"
+                                        }
+                                    },
+                                    {
+                                        "_": "false",
+                                        "$": {
+                                            "type": "reviewed"
+                                        }
+                                    },
+                                    {
+                                        "_": "false",
+                                        "$": {
+                                            "type": "aligned"
+                                        }
+                                    },
+                                    {
+                                        "_": "1464699975000",
+                                        "$": {
+                                            "type": "created_at"
+                                        }
+                                    },
+                                    {
+                                        "_": "Ognian",
+                                        "$": {
+                                            "type": "created_by"
+                                        }
+                                    },
+                                    {
+                                        "_": "1464700586000",
+                                        "$": {
+                                            "type": "modified_at"
+                                        }
+                                    },
+                                    {
+                                        "_": "Ognian",
+                                        "$": {
+                                            "type": "modified_by"
+                                        }
+                                    },
+                                    {
+                                        "_": "reactIntlMessages.json",
+                                        "$": {
+                                            "type": "filename"
+                                        }
+                                    }
+                                ],
+                                "seg": [
+                                    "Löschen"
+                                ]
+                            },
+                            {
+                                "$": {
+                                    "xml:lang": "en"
+                                },
+                                "prop": [
+                                    {
+                                        "_": "Save",
+                                        "$": {
+                                            "type": "context_prev"
+                                        }
+                                    },
+                                    {
+                                        "_": "Add item",
+                                        "$": {
+                                            "type": "context_next"
+                                        }
+                                    }
+                                ],
+                                "seg": [
+                                    "Delete"
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "$": {
+                            "tuid": "WHkaa3O7Mgx26p4svAM30wFQ0"
+                        },
+                        "tuv": [
+                            {
+                                "$": {
+                                    "xml:lang": "de",
+                                    "creationdate": "20160531T130616Z",
+                                    "changedate": "20160531T131626Z"
+                                },
+                                "prop": [
+                                    {
+                                        "_": "1108156",
+                                        "$": {
+                                            "type": "project"
+                                        }
+                                    },
+                                    {
+                                        "_": "false",
+                                        "$": {
+                                            "type": "reviewed"
+                                        }
+                                    },
+                                    {
+                                        "_": "false",
+                                        "$": {
+                                            "type": "aligned"
+                                        }
+                                    },
+                                    {
+                                        "_": "1464699976000",
+                                        "$": {
+                                            "type": "created_at"
+                                        }
+                                    },
+                                    {
+                                        "_": "Ognian",
+                                        "$": {
+                                            "type": "created_by"
+                                        }
+                                    },
+                                    {
+                                        "_": "1464700586000",
+                                        "$": {
+                                            "type": "modified_at"
+                                        }
+                                    },
+                                    {
+                                        "_": "Ognian",
+                                        "$": {
+                                            "type": "modified_by"
+                                        }
+                                    },
+                                    {
+                                        "_": "reactIntlMessages.json",
+                                        "$": {
+                                            "type": "filename"
+                                        }
+                                    }
+                                ],
+                                "seg": [
+                                    "Element hinzufügen"
+                                ]
+                            },
+                            {
+                                "$": {
+                                    "xml:lang": "en"
+                                },
+                                "prop": [
+                                    {
+                                        "_": "Delete",
+                                        "$": {
+                                            "type": "context_prev"
+                                        }
+                                    }
+                                ],
+                                "seg": [
+                                    "Add item"
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "$": {
+                            "tuid": "lkhxEUFz08v5I1ig2K0a10y4q"
+                        },
+                        "tuv": [
+                            {
+                                "$": {
+                                    "xml:lang": "de",
+                                    "creationdate": "20160531T132732Z",
+                                    "changedate": "20160531T132732Z"
+                                },
+                                "prop": [
+                                    {
+                                        "_": "1108156",
+                                        "$": {
+                                            "type": "project"
+                                        }
+                                    },
+                                    {
+                                        "_": "false",
+                                        "$": {
+                                            "type": "reviewed"
+                                        }
+                                    },
+                                    {
+                                        "_": "false",
+                                        "$": {
+                                            "type": "aligned"
+                                        }
+                                    },
+                                    {
+                                        "_": "1464701252000",
+                                        "$": {
+                                            "type": "created_at"
+                                        }
+                                    },
+                                    {
+                                        "_": "Ognian",
+                                        "$": {
+                                            "type": "created_by"
+                                        }
+                                    },
+                                    {
+                                        "_": "1464701252000",
+                                        "$": {
+                                            "type": "modified_at"
+                                        }
+                                    },
+                                    {
+                                        "_": "Ognian",
+                                        "$": {
+                                            "type": "modified_by"
+                                        }
+                                    },
+                                    {
+                                        "_": "reactIntlMessages.json",
+                                        "$": {
+                                            "type": "filename"
+                                        }
+                                    }
+                                ],
+                                "seg": [
+                                    "Löschen"
+                                ]
+                            },
+                            {
+                                "$": {
+                                    "xml:lang": "en"
+                                },
+                                "prop": [
+                                    {
+                                        "_": "Save",
+                                        "$": {
+                                            "type": "context_prev"
+                                        }
+                                    },
+                                    {
+                                        "_": "Add",
+                                        "$": {
+                                            "type": "context_next"
+                                        }
+                                    }
+                                ],
+                                "seg": [
+                                    "Delete"
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "$": {
+                            "tuid": "tq05Rx1w0UKi0U91yHagnnILs"
+                        },
+                        "tuv": [
+                            {
+                                "$": {
+                                    "xml:lang": "de",
+                                    "creationdate": "20160531T130614Z",
+                                    "changedate": "20160531T132731Z"
+                                },
+                                "prop": [
+                                    {
+                                        "_": "1108156",
+                                        "$": {
+                                            "type": "project"
+                                        }
+                                    },
+                                    {
+                                        "_": "false",
+                                        "$": {
+                                            "type": "reviewed"
+                                        }
+                                    },
+                                    {
+                                        "_": "false",
+                                        "$": {
+                                            "type": "aligned"
+                                        }
+                                    },
+                                    {
+                                        "_": "1464699974000",
+                                        "$": {
+                                            "type": "created_at"
+                                        }
+                                    },
+                                    {
+                                        "_": "Ognian",
+                                        "$": {
+                                            "type": "created_by"
+                                        }
+                                    },
+                                    {
+                                        "_": "1464701251000",
+                                        "$": {
+                                            "type": "modified_at"
+                                        }
+                                    },
+                                    {
+                                        "_": "Ognian",
+                                        "$": {
+                                            "type": "modified_by"
+                                        }
+                                    },
+                                    {
+                                        "_": "reactIntlMessages.json",
+                                        "$": {
+                                            "type": "filename"
+                                        }
+                                    }
+                                ],
+                                "seg": [
+                                    "Abbrechen"
+                                ]
+                            },
+                            {
+                                "$": {
+                                    "xml:lang": "en"
+                                },
+                                "prop": [
+                                    {
+                                        "_": "Save",
+                                        "$": {
+                                            "type": "context_next"
+                                        }
+                                    }
+                                ],
+                                "seg": [
+                                    "Cancel"
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "$": {
+                            "tuid": "erDihZRbM362YG4cCUgLxv8Q"
+                        },
+                        "tuv": [
+                            {
+                                "$": {
+                                    "xml:lang": "de",
+                                    "creationdate": "20160531T132802Z",
+                                    "changedate": "20160531T132802Z"
+                                },
+                                "prop": [
+                                    {
+                                        "_": "1108156",
+                                        "$": {
+                                            "type": "project"
+                                        }
+                                    },
+                                    {
+                                        "_": "false",
+                                        "$": {
+                                            "type": "reviewed"
+                                        }
+                                    },
+                                    {
+                                        "_": "false",
+                                        "$": {
+                                            "type": "aligned"
+                                        }
+                                    },
+                                    {
+                                        "_": "1464701282000",
+                                        "$": {
+                                            "type": "created_at"
+                                        }
+                                    },
+                                    {
+                                        "_": "Ognian",
+                                        "$": {
+                                            "type": "created_by"
+                                        }
+                                    },
+                                    {
+                                        "_": "1464701282000",
+                                        "$": {
+                                            "type": "modified_at"
+                                        }
+                                    },
+                                    {
+                                        "_": "Ognian",
+                                        "$": {
+                                            "type": "modified_by"
+                                        }
+                                    },
+                                    {
+                                        "_": "reactIntlMessages.json",
+                                        "$": {
+                                            "type": "filename"
+                                        }
+                                    }
+                                ],
+                                "seg": [
+                                    "Hinzufügen"
+                                ]
+                            },
+                            {
+                                "$": {
+                                    "xml:lang": "en"
+                                },
+                                "prop": [
+                                    {
+                                        "_": "Delete",
+                                        "$": {
+                                            "type": "context_prev"
+                                        }
+                                    }
+                                ],
+                                "seg": [
+                                    "Add"
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}
+

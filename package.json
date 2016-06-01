@@ -7,5 +7,12 @@
     "repository": {
         "type": "git",
         "url": "https://github.com/Ognian/reactIntlJson-translator.git"
+    },
+    "dependencies": {
+        "xml2js ": "*"
+    },
+
+    "scripts": {
+        "translate": "node index.js"
     }
 }

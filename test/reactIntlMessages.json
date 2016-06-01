@@ -1,0 +1,35 @@
+[
+  {
+    "id": "cancelInDetail",
+    "defaultMessage": "Cancel"
+  },
+  {
+    "id": "saveItem",
+    "defaultMessage": "Save"
+  },
+  {
+    "id": "deleteItem",
+    "defaultMessage": "Delete"
+  },
+  {
+    "id": "newItem",
+    "description": "the text on the plus button for adding an item",
+    "defaultMessage": "Add"
+  },
+  {
+    "id": "multipleActionsHeader",
+    "defaultMessage": "action on ALL selected items"
+  },
+  {
+    "id": "singleActionsHeader",
+    "defaultMessage": "action on this item"
+  },
+  {
+    "id": "editAction",
+    "defaultMessage": "Edit"
+  },
+  {
+    "id": "deleteAction",
+    "defaultMessage": "Delete"
+  }
+]
