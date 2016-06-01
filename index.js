@@ -43,6 +43,16 @@ var defaultConfig = {
 };
 
 
+/*
+* TODO
+* 
+* for an alternative see https://github.com/TermSearch/tmx2json
+*
+* we would need the reverse too
+*
+* */
+
+
 var xml2js = require('xml2js');
 var fs = require('fs');
 
