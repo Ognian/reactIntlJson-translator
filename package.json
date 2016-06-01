@@ -1,0 +1,11 @@
+{
+    "name": "reactIntlJson-translator",
+    "version": "0.0.1",
+    "author": "Ognian Tschakalov",
+    "description": "a simple translation utility for reactIntlJson files.",
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Ognian/reactIntlJson-translator.git"
+    }
+}
