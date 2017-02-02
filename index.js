@@ -29,13 +29,11 @@
 var defaultConfig = {
     defaultLanguage: "en",
     inputJson: "dist/reactIntlMessages.json",
+    translationMemoryTMX:"src/intl/TM-de.tmx",  // we chose one TM for all languages
 
     lanuages: ["de"],
     toBeTranslatedJson: {
         de: "transTmp/translate-de.json"
-    },
-    translationMemoryTMX: {
-        de: "src/intl/TM-de.tmx"
     },
     outputJson: {
         de: "src/intl/reactIntlMessages-de.json"
@@ -45,13 +43,20 @@ var defaultConfig = {
 
 /*
 * TODO
-* 
+*
 * for an alternative see https://github.com/TermSearch/tmx2json
 *
 * we would need the reverse too
 *
 * */
 
+
+/*
+* TODO
+*
+* add some api for machine translation
+*
+* */
 
 var xml2js = require('xml2js');
 var fs = require('fs');
